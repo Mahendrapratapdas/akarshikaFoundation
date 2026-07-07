@@ -1,0 +1,100 @@
+{
+  "nav": [
+    { "to": "/", "label": "Home" },
+    { "to": "/about", "label": "About" },
+    { "to": "/careers", "label": "Careers" }
+  ],
+  "footerNav": [
+    { "to": "/", "label": "Home" },
+    { "to": "/about", "label": "About Us" },
+    { "to": "/careers", "label": "Careers" }
+  ],
+  "footerPrograms": [
+    { "label": "Education", "href": "#" },
+    { "label": "Livelihood", "href": "#" },
+    { "label": "Sanitation", "href": "#" },
+    { "label": "Agricultural Emergency Relief", "href": "#" },
+    { "label": "Volunteer With Us", "href": "#" }
+  ],
+  "footerLinks": [
+    { "label": "Privacy", "href": "#" },
+    { "label": "Terms", "href": "#" },
+    { "label": "Annual Report", "href": "#" }
+  ],
+  "socialLinks": [
+    { "platform": "Facebook", "href": "#" },
+    { "platform": "Twitter", "href": "#" },
+    { "platform": "Instagram", "href": "#" },
+    { "platform": "LinkedIn", "href": "#" }
+  ],
+  "impact": [
+    { "value": "6+", "label": "Focus areas" },
+    { "value": "Rural", "label": "India served" },
+    { "value": "2026", "label": "Founded" },
+    { "value": "Growing", "label": "Volunteer network" }
+  ],
+  "programs": [
+    {
+      "icon": "GraduationCap",
+      "title": "Education",
+      "body": "Learning materials, awareness programs, farmer training workshops, school support drives, digital literacy sessions, and scholarship guidance for rural children and youth."
+    },
+    {
+      "icon": "Users",
+      "title": "Livelihood",
+      "body": "Skill development, women-led SHG strengthening, handicraft training, micro-entrepreneurship coaching, and sustainable farming practices for stable family income."
+    },
+    {
+      "icon": "Leaf",
+      "title": "Sanitation",
+      "body": "Village-level sanitation awareness, clean water drives, waste management programs, and hygiene education to build healthy, disease-free communities."
+    },
+    {
+      "icon": "HeartHandshake",
+      "title": "Agricultural Emergency Relief",
+      "body": "Emergency aid, climate adaptation support, and forest conservation programs that protect farmers and rural families during crises."
+    }
+  ],
+  "team": [
+    { "name": "Founder", "role": "Akarshika Foundation", "img": "team-1", "emp": "AF-01" },
+    { "name": "Programs Lead", "role": "Livelihood & Education", "img": "team-2", "emp": "AF-02" },
+    { "name": "Field Coordinator", "role": "Sanitation & Relief", "img": "team-3", "emp": "AF-03" },
+    { "name": "Partnerships", "role": "CSO & Government Liaison", "img": "team-4", "emp": "AF-04" }
+  ],
+  "values": [
+    {
+      "title": "Our Mission",
+      "body": "To support farmers and rural communities through emergency aid, sustainable livelihood creation, and education that empowers long-term development."
+    },
+    {
+      "title": "Our Vision",
+      "body": "A future where every rural family has access to resources, knowledge, and opportunities that enable a dignified, secure, and prosperous life."
+    },
+    {
+      "title": "Our Approach",
+      "body": "Grassroots work driven by compassion and community service — partnering with CSOs, donor agencies, and government bodies for equitable, sustainable growth."
+    }
+  ],
+  "roles": [
+    { "title": "Community Volunteer", "location": "Rural India", "type": "Volunteer" },
+    { "title": "Field Coordinator — Livelihood", "location": "Rural India", "type": "Full-time" },
+    { "title": "Education Program Associate", "location": "Rural India", "type": "Full-time" }
+  ],
+  "perks": [
+    {
+      "icon": "Heart",
+      "title": "Grassroots impact",
+      "body": "Every role directly transforms the lives of farmers and rural families."
+    },
+    {
+      "icon": "Sparkles",
+      "title": "Learn on the ground",
+      "body": "Work alongside communities, CSOs, and government partners across India."
+    },
+    {
+      "icon": "Briefcase",
+      "title": "Purpose-driven team",
+      "body": "Join a mission built on compassion, responsibility, and community service."
+    }
+  ]
+}
