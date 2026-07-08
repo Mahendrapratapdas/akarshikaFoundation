@@ -51,14 +51,14 @@ function Index() {
               {HERO_SUBTEXT}
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
-              <DonateDialog>
+              {/* <DonateDialog>
                 <button
                   type="button"
                   className="inline-flex items-center gap-2 rounded-full bg-primary px-6 py-3 text-sm font-semibold text-primary-foreground shadow-[var(--shadow-elegant)] transition hover:opacity-90"
                 >
                   {HERO_BTN_DONATE} <ArrowRight className="h-4 w-4" />
                 </button>
-              </DonateDialog>
+              </DonateDialog> */}
               <Link
                 to="/about"
                 className="inline-flex items-center gap-2 rounded-full border border-border bg-card px-6 py-3 text-sm font-semibold text-foreground transition hover:bg-secondary"
@@ -137,14 +137,14 @@ function Index() {
             {CTA_SUBTEXT}
           </p>
           <div className="mt-8 flex flex-wrap justify-center gap-3">
-            <DonateDialog>
+            {/* <DonateDialog>
               <button
                 type="button"
                 className="inline-flex items-center gap-2 rounded-full bg-background px-6 py-3 text-sm font-semibold text-foreground transition hover:opacity-90"
               >
                 {CTA_BTN_DONATE} <ArrowRight className="h-4 w-4" />
               </button>
-            </DonateDialog>
+            </DonateDialog> */}
             <Link
               to="/careers"
               className="inline-flex items-center gap-2 rounded-full border border-primary-foreground/30 px-6 py-3 text-sm font-semibold text-primary-foreground transition hover:bg-primary-foreground/10"

@@ -22,10 +22,10 @@
     { "label": "Annual Report", "href": "#" }
   ],
   "socialLinks": [
-    { "platform": "Facebook", "href": "#" },
-    { "platform": "Twitter", "href": "#" },
-    { "platform": "Instagram", "href": "#" },
-    { "platform": "LinkedIn", "href": "#" }
+    { "platform": "Facebook", "href": "https://www.facebook.com/share/18k8kjaEfc/" },
+    { "platform": "Youtube", "href": "https://www.youtube.com/channel/UCXM07G83bjujQikWzkMnScQ" },
+    { "platform": "Instagram", "href": "https://www.instagram.com/akarshikafoundation?igsh=czFicnNhczNkNWpk" },
+    { "platform": "LinkedIn", "href": "https://www.linkedin.com/in/akarshika-foundation-4686b1420" }
   ],
   "impact": [
     { "value": "6+", "label": "Focus areas" },
@@ -56,10 +56,9 @@
     }
   ],
   "team": [
-    { "name": "Founder", "role": "Akarshika Foundation", "img": "team-1", "emp": "AF-01" },
-    { "name": "Programs Lead", "role": "Livelihood & Education", "img": "team-2", "emp": "AF-02" },
-    { "name": "Field Coordinator", "role": "Sanitation & Relief", "img": "team-3", "emp": "AF-03" },
-    { "name": "Partnerships", "role": "CSO & Government Liaison", "img": "team-4", "emp": "AF-04" }
+    { "name": "Chandan Kumar Patra", "role": "Chairman", "img": "team-1" },
+    { "name": "Ratan Kumar Jena", "role": "Managing Trustee", "img": "team-3"},
+    { "name": "Arun Kumar Dey", "role": "Trustee", "img": "team-2"}
   ],
   "values": [
     {
@@ -76,9 +75,7 @@
     }
   ],
   "roles": [
-    { "title": "Community Volunteer", "location": "Rural India", "type": "Volunteer" },
-    { "title": "Field Coordinator — Livelihood", "location": "Rural India", "type": "Full-time" },
-    { "title": "Education Program Associate", "location": "Rural India", "type": "Full-time" }
+    { "title": "Community Volunteer", "location": "Rural India", "type": "Volunteer" }
   ],
   "perks": [
     {

@@ -51,14 +51,14 @@ export function Header() {
           >
             {theme === "dark" ? <Sun className="h-4 w-4" /> : <Moon className="h-4 w-4" />}
           </button>
-          <DonateDialog>
+          {/* <DonateDialog>
             <button
               type="button"
               className="hidden rounded-full bg-primary px-5 py-2.5 text-sm font-semibold text-primary-foreground shadow-sm transition hover:opacity-90 sm:inline-flex"
             >
               {HEADER_DONATE_BTN}
             </button>
-          </DonateDialog>
+          </DonateDialog> */}
           <button
             onClick={() => setOpen((o) => !o)}
             aria-label={HEADER_MENU}
